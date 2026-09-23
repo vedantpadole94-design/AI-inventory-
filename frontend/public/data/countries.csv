@@ -1,0 +1,16 @@
+code,country_code,name,region,currency,gdp_rank,manufacturing_index,risk_baseline,timezone,population_millions,gdp_usd_billions,inflation_rate_avg,corruption_index,ease_of_doing_business_rank,trade_agreements,political_stability,infrastructure_score,country_multiplier
+IN,IN,India,Asia,INR,5,78,35,Asia/Kolkata,1428.6,3730,5.4,40,63,"[""WTO"", ""ASEAN-India"", ""SAFTA""]",58,67,0.8
+CN,CN,China,Asia,CNY,2,95,45,Asia/Shanghai,1410.7,17960,2.1,45,31,"[""WTO"", ""RCEP"", ""ASEAN-China""]",52,91,0.85
+US,US,United States,North America,USD,1,88,20,America/NY,334.9,27360,3.7,69,6,"[""WTO"", ""USMCA"", ""US-Korea FTA""]",68,86,1.15
+DE,DE,Germany,Europe,EUR,4,92,15,Europe/Berlin,84.5,4457,2.8,79,22,"[""WTO"", ""EU Single Market"", ""CETA""]",82,90,1.1
+JP,JP,Japan,Asia,JPY,3,90,12,Asia/Tokyo,124.5,4213,2.6,73,29,"[""WTO"", ""CPTPP"", ""RCEP""]",78,94,1.08
+VN,VN,Vietnam,Asia,VND,45,72,30,Asia/Ho_Chi_Minh,100.3,430,3.3,41,70,"[""WTO"", ""CPTPP"", ""RCEP"", ""EVFTA""]",55,65,0.82
+BR,BR,Brazil,South America,BRL,9,68,42,America/Sao_Paulo,216.4,2174,4.6,36,124,"[""WTO"", ""MERCOSUR""]",51,60,0.88
+KR,KR,South Korea,Asia,KRW,10,89,22,Asia/Seoul,51.7,1713,3.6,63,10,"[""WTO"", ""RCEP"", ""US-Korea FTA""]",64,92,1.05
+MX,MX,Mexico,North America,MXN,15,74,38,America/Mexico_City,128.5,1789,4.7,31,60,"[""WTO"", ""USMCA"", ""CPTPP""]",48,69,0.9
+TH,TH,Thailand,Asia,THB,22,71,32,Asia/Bangkok,71.8,515,1.2,35,21,"[""WTO"", ""RCEP"", ""ASEAN""]",45,73,0.83
+PL,PL,Poland,Europe,PLN,21,76,25,Europe/Warsaw,37.7,842,6.0,55,40,"[""WTO"", ""EU Single Market"", ""CETA""]",61,78,0.95
+TR,TR,Turkey,Middle East,TRY,19,70,48,Europe/Istanbul,85.3,1108,53.9,36,33,"[""WTO"", ""EU Customs Union""]",39,68,0.87
+ZA,ZA,South Africa,Africa,ZAR,33,62,52,Africa/Johannesburg,60.4,377,5.9,43,82,"[""WTO"", ""SACU"", ""AfCFTA""]",43,55,0.85
+AU,AU,Australia,Oceania,AUD,13,80,18,Australia/Sydney,26.6,1724,3.8,75,14,"[""WTO"", ""CPTPP"", ""RCEP""]",83,88,1.12
+CA,CA,Canada,North America,CAD,14,82,16,America/Toronto,40.1,2140,3.9,74,23,"[""WTO"", ""USMCA"", ""CPTPP"", ""CETA""]",81,87,1.1

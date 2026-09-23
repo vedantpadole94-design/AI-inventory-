@@ -1,0 +1,16 @@
+commodity_code,code,name,category,unit,base_price_usd,volatility,trend_annual,seasonality,seasonal_pattern
+STL,STL,Steel,Metals,USD/ton,450,0.05,0.02,Q2-Q3 High,Q2-Q3 High
+COP,COP,Copper,Metals,USD/ton,5800,0.08,0.03,Q1 High,Q1 High
+PLA,PLA,Plastic,Polymers,USD/ton,1100,0.04,0.015,Stable,Stable
+CTN,CTN,Cotton,Textiles,USD/ton,1500,0.06,0.01,Q4 High,Q4 High
+SLC,SLC,Silicon,Electronics,USD/ton,2200,0.09,0.04,Q3-Q4 High,Q3-Q4 High
+ALM,ALM,Aluminum,Metals,USD/ton,1900,0.05,0.025,Q2 High,Q2 High
+LIT,LIT,Lithium,Battery,USD/ton,15000,0.15,0.15,Q4 High,Q4 High
+NIC,NIC,Nickel,Battery,USD/ton,14000,0.12,0.08,Q3 High,Q3 High
+REE,REE,Rare Earth,Electronics,USD/ton,45000,0.18,0.1,Stable,Stable
+SEM,SEM,Semiconductors,Electronics,USD/unit,5.5,0.1,0.06,Q3-Q4 High,Q3-Q4 High
+RBR,RBR,Rubber,Polymers,USD/ton,1400,0.06,0.02,Q2 High,Q2 High
+TIM,TIM,Timber,Construction,USD/m³,350,0.07,0.03,Q3 High,Q3 High
+CEM,CEM,Cement,Construction,USD/ton,120,0.04,0.018,Q2-Q3 High,Q2-Q3 High
+GLS,GLS,Glass,Construction,USD/ton,800,0.05,0.022,Stable,Stable
+PAP,PAP,Paper,Packaging,USD/ton,650,0.04,0.012,Q4 High,Q4 High
